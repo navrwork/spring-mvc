@@ -3,7 +3,7 @@
         "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>HelloWorld JSP Web Application</display-name>
+  <display-name>HelloWorld View Web Application</display-name>
 
   <servlet>
     <servlet-name>HwFrontController</servlet-name>
